@@ -45,7 +45,8 @@
 ### 安裝 babel
 - `npm i babel-loader -D`
 - `npm i @babel/core @babel/preset-env @babel/preset-react -D`
-- ```diff
+- 
+```diff
 {
   "name": "react_with_webpack",
   "version": "1.0.0",
@@ -67,6 +68,7 @@
 
 ### 安裝 React
 - `npm i react react-dom`
+
 ```diff
 {
   "name": "react_with_webpack",
